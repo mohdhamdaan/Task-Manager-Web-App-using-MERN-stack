@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #FFADAD;
+  align-items: center;
+  height: 60px;
+  padding: 0 20px;
+}
+.header__logo h5 {
+  color: rgb(45, 39, 39);
+  font-weight: 400;
+}
+.header .button {
+  background-color: white;
+}/*# sourceMappingURL=header.css.map */
